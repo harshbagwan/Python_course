@@ -1,0 +1,17 @@
+list = []
+f1 = int(input("enter marks  "))
+list.append(f1)
+f2 = int(input("enter marks  "))
+list.append(f2)
+f3 = int(input("enter marks  "))
+list.append(f3)
+f4= int(input("enter marks  "))
+list.append(f4)
+f5 = int(input("enter marks  "))
+list.append(f5)
+f6 = int(input("enter marks  "))
+list.append(f6)
+
+list.sort()
+#tuple = tuple(list)
+print (list)

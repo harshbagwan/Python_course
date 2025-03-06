@@ -1,0 +1,16 @@
+list = []
+f1 = input("enter fruit name ")
+list.append(f1)
+f2 = input("enter fruit name ")
+list.append(f2)
+f3 = input("enter fruit name ")
+list.append(f3)
+f4= input("enter fruit name ")
+list.append(f4)
+f5 = input("enter fruit name ")
+list.append(f5)
+f6 = input("enter fruit name ")
+list.append(f6)
+
+tuple = tuple(list)
+print (tuple)
