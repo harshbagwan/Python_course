@@ -8,4 +8,5 @@ a = 5
 b = 4.33
 c = "string"
 d = True
-f = None
+
+f = None # yassss
